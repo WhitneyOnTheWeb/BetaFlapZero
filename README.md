@@ -31,10 +31,10 @@ There are several widely available opensource codebases in existence that emulat
 
 ## Documents
 
-  -  [proposal.pdf](https://raw.githubusercontent.com/WhitneyOnTheWeb/RL-Flappybird/master/proposal.pdf)
-  -  [project.pdf](https://raw.githubusercontent.com/WhitneyOnTheWeb/RL-Flappybird/master/project.pdf)
-  -  [Jupyter Notebook](https://raw.githubusercontent.com/WhitneyOnTheWeb/RL-Flappybird/master/BetaFlapZero.ipynb)
+  -  [proposal.pdf](https://github.com/WhitneyOnTheWeb/BetaFlapZero/blob/master/proposal.pdf)
+  -  [project.pdf](https://github.com/WhitneyOnTheWeb/BetaFlapZero/blob/master/project.pdf)
+  -  [Jupyter Notebook](https://github.com/WhitneyOnTheWeb/BetaFlapZero/blob/master/BetaFlapZero.ipynb)
   There is a lot of additional information about the source code in this notebook, include previews of all of the source code, and some attempts at visualizing what little logging data could be salvaged
-  -  [environment.yml](https://raw.githubusercontent.com/WhitneyOnTheWeb/RL-Flappybird/master/environment.yml)
-  -  [Agent and Model](https://raw.githubusercontent.com/WhitneyOnTheWeb/RL-Flappybird/master/learner)
-  -  [Emulator](https://raw.githubusercontent.com/WhitneyOnTheWeb/RL-Flappybird/master/game)
+  -  [environment.yml](https://github.com/WhitneyOnTheWeb/BetaFlapZero/blob/master/environment.yml)
+  -  [Agent and Model](https://github.com/WhitneyOnTheWeb/BetaFlapZero/blob/master/learner)
+  -  [Emulator](https://github.com/WhitneyOnTheWeb/BetaFlapZero/blob/master/game)
